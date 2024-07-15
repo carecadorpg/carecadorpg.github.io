@@ -27,5 +27,5 @@ Durante o período da pandemia da COVID-19, eu cuidava de uma pagina de artigos 
 
 ### A dinâmica deste blog
 Minha ideia central não é de realizar postagens constantes, mas sim de compartilhar eventualmente minhas descobertas e criações com você. Pretendo sempre trazer conteúdo de autoria própria (junto com minhas possíveis referências). Quero compartilhar módulos que criei e tenho criado, técnicas de jogo que utilizo e que posso vir a desenvolver. Caso você tenha alguma sugestão, fique à vontade para compartilhar comigo.
-Gostaria de propor interações com você que é meu leitor, para termos uma troca de informações, assim todos saímos ganhando, utilizarei o próprio GitHub da página para isso, através de uma funcionalidade da ferramenta.<br>
+Gostaria de propor interações com você que é meu leitor, para termos uma troca de informações, assim todos saímos ganhando, utilizarei o próprio [GitHub da página](https://github.com/carecadorpg/carecadorpg.github.io/discussions) para isso, através de uma funcionalidade da ferramenta.<br>
 Outro ponto do blog é que os artigos poderão, eventualmente, sofrer melhorias, mas seu histórico permanecerá guardado no GitHub da página.
