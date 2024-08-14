@@ -59,9 +59,7 @@ Disponibilize o horário da sua primeira sessão, com quatro vagas (recomendado 
 ## Conclusão
 Um conjunto de regras talvez deixe mais fácil de entender como essas funcionalidades são aplicadas em jogo. Nos próximos artigos eu descreverei como são as regras que eu uso. Sinta-se livre para utilizar quantas delas você quiser. Um agradecimento especial à [comunidade do café com dungeon](https://apoia.se/cafecomdungeon) e à [comunidade do RPG DOJO](https://cobbi.notion.site/O-que-RPG-DOJO-0a761aab6140423fad63c1822e14e2fb#67963f55fc5e425f82405e0eae3a258a) pelos ensinamentos compartilhados, por me motivarem e por me ajudarem a melhorar esta ideia.
 
-<!---
 Próximo passo: [Mecânica de bando (parte 2)](/posts/mecanica-de-bando-p2)
--->
 
 ### Referências
 1. [Café com Dungeon #98 (Temporada 1) - Hexcrawl](https://open.spotify.com/episode/2GqqGMtUV3vyytiHsiIbxm?si=0e17f26fd97442b4)
