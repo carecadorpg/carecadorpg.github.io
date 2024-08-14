@@ -6,6 +6,9 @@ tags: [modulo-de-regras, mecanica-de-bando, guia-de-campanha]
 author: coppolaop
 ---
 
+O guia introdutório às mecânicas de bando, explicando seu surgimento, sua evolutiva e suas principais funcionalidades.
+Através deste material você conhecerá do que se trata, e como aplicar, este pacote de mecânicas modulares ou módulo de regras de RPG.
+
 ## Contextualização
 Explicando o plano de fundo do surgimento deste pacote de mecânicas modulares.
 
