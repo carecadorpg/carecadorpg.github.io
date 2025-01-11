@@ -43,6 +43,10 @@ $ bundle
 
 ## Usage
 
+```console
+$ jekyll serve --livereload
+```
+
 Please see the [theme's docs](https://github.com/cotes2020/jekyll-theme-chirpy#documentation).
 
 ## Contributing
