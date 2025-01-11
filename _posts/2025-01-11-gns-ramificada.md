@@ -54,8 +54,8 @@ _Esta é a representação gráfica da ramificação da GNS, seguindo a represen
 Ao projetar um jogo ou planejar uma nova campanha, pense na diretriz que você quer dar aos seus jogadores. Uma agenda mal desenhada pode abrir brecha para diferentes interpretações, o que ocasionará graves conflitos entre os participantes da sessão. Um agradecimento especial ao Rafael Balbi por me introduzir a GNS e o MDA, e por todo conhecimento compartilhado no [Podcast Café com Dungeon](https://creators.spotify.com/pod/show/cafecomdungeon).
 
 ### Referências
-1. [GNS e outras matérias da teoria da interpretação de papéis](https://www.indie-rpgs.com/articles/1/)
-2. [GNS e outras matérias da teoria da interpretação de papéis, capítulo 2: GNS](https://www.indie-rpgs.com/articles/3/)
+1. [GNS e outras matérias da teoria da interpretação de papéis](http://indie-rpgs.com/articles/1)
+2. [GNS e outras matérias da teoria da interpretação de papéis, capítulo 2: GNS](http://indie-rpgs.com/articles/3)
 3. [MDA: uma abordagem formal para o design e a pesquisa de jogos](https://edisciplinas.usp.br/pluginfile.php/4575137/mod_resource/content/2/MDA_traduzido.pdf)
 4. [Café com Dungeon #0017 (Temporada 2) - Reflexões sobre a Agência do Jogador](https://creators.spotify.com/pod/show/cafecomdungeon/episodes/Reflexes-sobre-a-Agncia-do-Jogador-0017-e2irpho)
 5. [Café com Dungeon #0002 (Temporada 2) - Todo Mestre é Game Designer?](https://creators.spotify.com/pod/show/cafecomdungeon/episodes/Todo-Mestre--Game-Designer--0002-e2e9808)
