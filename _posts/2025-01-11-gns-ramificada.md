@@ -15,7 +15,7 @@ Através do prisma de que as três agendas se encontram sempre em uma disputa pe
 
 ## Vetorização
 Na física, vetores são utilizados para representar forças. O objetivo de vetorizar a GNS é mostrar que as agendas tendem a seguir diferentes caminhos, mas que existem direções intermediárias que não se tratam de de uma nova agenda, e sim um caminho híbrido entre duas delas. Essas forças tendem a direcionar o estilo de jogo (ou de jogar) em uma direção e esta diretiva eu chamo de **intenção máxima**.<br>
-Este é o objetivo central de cada agenda, o suprassumo daquela motivação. Para o Gamismo, resolução de desafio é o foco, o jogo em si, vencer. No narrativismo a intenção máxima é a conteção de história, a criação de fatos ficcionais que entretenham quem presencia. Já o simulacionismo, a contemplação, a ação de poder vivenciar aquela experiência como se fosse a realidade e, através da verossimilhança, sentir-se imerso em uma realidade alternativa coerente.
+Este é o objetivo central de cada agenda, o suprassumo daquela motivação. Para o Gamismo, resolução de desafio é o foco, o jogo em si, vencer. No narrativismo a intenção máxima é a contação de histórias, a criação de fatos ficcionais que entretenham quem presencia. Já o simulacionismo, a contemplação, a ação de poder vivenciar aquela experiência como se fosse a realidade e, através da verossimilhança, sentir-se imerso em uma realidade alternativa coerente.
 
 ![GNS Vetorizada](/assets/img/teorias/gns-ramificada/gns-vetorizada.png){: w="565" h="1032" }
 _Esta é a representação gráfica da vetorização da GNS, onde três linhas partem do centro em direção noroeste, nordeste e sul, rumo a suas respectivas intenções máximas_

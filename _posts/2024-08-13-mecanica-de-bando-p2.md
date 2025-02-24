@@ -2,7 +2,7 @@
 title: Mecânica de Bando (parte 2) - Esquadrões
 date: 2024-08-13 23:00 -0300
 categories: [Módulo, Mecânica de Bando]
-tags: [modulo-de-regras, mecanica-de-bando, guia-de-campanha, esquadroes]
+tags: [modulo-de-regras, mecanica-de-bando, guia-de-campanha, ferramentas ,recursos]
 author: coppolaop
 ---
 
