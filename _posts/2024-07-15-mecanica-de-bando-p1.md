@@ -23,7 +23,7 @@ O que deu o direcionamento inicial para fundamentar essa primeira etapa foram jo
 A época que a dificuldade de horários me impactou mais foi justamente quando eu tinha mais tempo disponível e calhou do mundo estar passando por um rebuliço, a [pandemia da COVID-19](https://pt.wikipedia.org/wiki/Pandemia_de_COVID-19). Calhou também de ser o momemento que recebi a recompensa da pré-venda via [financiamento coletivo](https://www.catarse.me/tormenta20pre) do [Tormenta 20](https://jamboeditora.com.br/produto/tormenta20-edicao-jogo-do-ano/) e estava super empolgado para experimentar. Assim sendo, iniciei uma campanha de T20 com uma proposta diferenciada, adicionei em um grupo de aplicativo de mensagens todos os meus amigos jogadores de RPG, algo em torno de dez pessoas. Foi um experimento de jogo que durou dois anos e que mesmo após seu término ainda teve uma considerável evolução.
 
 ### Avanço posterior
-Em 2024, após alguns anos de sucesso do experimento, tomei a decisão de me aprofundar em comunidades do RPG e conhecer mais sobre o hobby, como cito na [descrição do blog](/about/#o-que-me-motivou-a-escrever). através desses grupos, tive contato com outros módulos, o que ocasionou uma melhoria e troca de experiências. Descobri que existia um material com uma proposta **muito similar** a esta que eu usava, na comunidade chamamos de [ArsLudi](https://arsludi.lamemage.com/index.php/78/grand-experiments-west-marches/). Vi os conceitos deste material sendo utilizados em prática e isto agregou. Adicionei o [compartilhamento de informações](https://arsludi.lamemage.com/index.php/79/grand-experiments-west-marches-part-2-sharing-info/) ao módulo. Conheci também os conceitos de [Hexcrawl](https://open.spotify.com/episode/2GqqGMtUV3vyytiHsiIbxm?si=0e17f26fd97442b4), que visavam mais exploração de mapa do que eu estava acostumado, e resolvi agregar essa importância da viagem ao módulo. Persisto estudando e buscando formas de aperfeiçoar ainda mais este conteúdo. A experimentação pós-avanço está sendo realizada através de uma [mesa aberta](https://www.tiktok.com/@carecadorpg/video/7387560925366111494).
+Em 2024, após alguns anos de sucesso do experimento, tomei a decisão de me aprofundar em comunidades do RPG e conhecer mais sobre o hobby, como cito na [descrição do blog](/about/#o-que-me-motivou-a-escrever). através desses grupos, tive contato com outros módulos, o que ocasionou uma melhoria e troca de experiências. Descobri que existia um material com uma proposta **muito similar** a esta que eu usava, na comunidade chamamos de [ArsLudi](https://arsludi.lamemage.com/index.php/78/grand-experiments-west-marches). Vi os conceitos deste material sendo utilizados em prática e isto agregou. Adicionei o [compartilhamento de informações](https://arsludi.lamemage.com/index.php/79/grand-experiments-west-marches-part-2-sharing-info/) ao módulo. Conheci também os conceitos de [Hexcrawl](https://open.spotify.com/episode/2GqqGMtUV3vyytiHsiIbxm?si=0e17f26fd97442b4), que visavam mais exploração de mapa do que eu estava acostumado, e resolvi agregar essa importância da viagem ao módulo. Persisto estudando e buscando formas de aperfeiçoar ainda mais este conteúdo. A experimentação pós-avanço está sendo realizada através de uma [mesa aberta](https://www.tiktok.com/@carecadorpg/video/7387560925366111494).
 
 ### A escolha do nome
 Mecânica de Bando foi o nome escolhido para este módulo e há uma justificativa. O termo mecânica, em RPG, está diretamente ligado às regras, sendo algo que agrega a um sistema de jogo já existente de maneira modular, sendo opcional. Já o termo Bando foi escolhido por se tratar de um agrupamento de pessoas, em uma maneira fácil de escrever, contornando a utilização da palavra grupo, que já é utilizada amplamente.
@@ -36,6 +36,7 @@ Listando resumidamente os pontos de mais impacto do pacote:
 - **Possibilidade de múltiplos Mestres**: Uma sessão não precisa depender do mestre da sessão anterior;
 - **Grupo expandido**: Não há limite máximo de jogadores, os limitadores são por sessão;
 - **Estrutura de esquadrão**: Nível compartilhado entre personagens do mesmo jogador;
+- **Possibilidade de esconderijo móvel**: O local onde uma sessão inicia e termina pode ser um veículo ou uma caravana, o que o permite mudar de localização durante o jogo;
 - **Compartilhamento de informações**: Os personagens compartilham informações uns com os outros sobre as expedições que fizeram;
 - **Possibilidade de nivelamento**: Áreas de perigo que possibilitam desde desafios para iniciantes mas também perigos em níveis elevados.
 
@@ -43,6 +44,7 @@ Listando resumidamente os pontos de mais impacto do pacote:
 - **Estrutura de esquadrão**: Funcionalidade que acelera o avanço, conforme citado na lista do tópico anterior;
 - **Possibilidade de uso em jogo de aventura linear**: Adapte como quiser, missões direcionadas ou livres;
 - **Possibilidade de múltiplos Mestres**: Funcionalidade que facilita agendamento de sessões, conforme citado na lista do tópico anterior;
+- **Possibilidade de esconderijo móvel**: A base de operações dos personagens pode ser móvel, possibilitando que o grupo explore areas maiores em mais segurança;
 - **Limitador mínimo expandido de jogadores por sessão**: É possível jogar a sessão tendo entre um a quatro jogadores.
 
 ## Por onde começar
@@ -65,5 +67,5 @@ Próximo passo: [Mecânica de bando (parte 2)](/posts/mecanica-de-bando-p2)
 1. [Café com Dungeon #98 (Temporada 1) - Hexcrawl](https://open.spotify.com/episode/2GqqGMtUV3vyytiHsiIbxm?si=0e17f26fd97442b4)
 2. [Café com Dungeon #106 (Temporada 1) - Railroad vs. Sandbox](https://open.spotify.com/episode/4naE7i70lYVI9ZVsi9QtM7?si=8b4fd7b26b0948ba)
 3. [Café com Dungeon #999 (Temporada 1) - O Hexcrawl Perfeito](https://open.spotify.com/episode/4Zkw5PFwyJKCl4X3LHuSEJ?si=b4ac8f33147d4c65)
-4. [Café com Dungeon #0010 (Temporada 2) - ArsLudi e Colonialismo](https://open.spotify.com/episode/37f0p04eBnq1ILsHMxQ3FN?si=6a79b027e73446f7)
+4. [Café com Dungeon #0010 (Temporada 2) - ArsLudi e Colonialismo](https://creators.spotify.com/pod/show/cafecomdungeon/episodes/West-Marches-e-Colonialismo-0010-e2godrs)
 5. [ArsLudi: Segredos e Respostas (Parte 1)](https://arsludi.lamemage.com/index.php/705/west-marches-secrets-answers-part-1/)
