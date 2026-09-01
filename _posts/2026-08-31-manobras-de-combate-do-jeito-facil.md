@@ -53,7 +53,7 @@ E não me entenda mal, eu realmente não gosto de metamoedas nos meus jogos old 
 
 Para encerrar o post, vou deixar mais alguns exemplos do que estou falando. Obrigado pela atenção. Espero que isso também seja útil para você.
 
-![Manobra especial](/assets/img/traducao/oddskullblog/mordschlag4.png)
+![Manobra especial](/assets/img/traducao/oddskullblog/special-maneuver.jpg)
 _Acredite em mim, isso é uma manobra especial_
 
 ---
